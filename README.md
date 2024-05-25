@@ -4,20 +4,20 @@ This repository contains examples and exercises related to computer organization
 
 ## Contents
 
-- `BigLittleIndian.c` - A C program to determine the endianness of the system.
+- `BigLittleendian.c` - A C program to determine the endianness of the system.
 - `first.asm` - An x86 assembly program to print a string using DOS interrupts.
 
-### BigLittleIndian.c
+### BigLittleendian.c
 
 This C program checks whether the system is using big-endian or little-endian byte order. The program uses a union to store a short integer and a character array, then examines the byte order in memory.
 
 #### Compilation and Execution
 
-To compile and run the `BigLittleIndian.c` program:
+To compile and run the `BigLittleendian.c` program:
 
 ```bash
-gcc BigLittleIndian.c -o BigLittleIndian
-./BigLittleIndian 
+gcc BigLittleendian.c -o BigLittleendian
+./BigLittleendian 
 ```
 ## first.asm
 This x86 assembly program prints a string to the console using DOS interrupts. It demonstrates the use of the DOS interrupt 21h to print a string and terminate the program.
