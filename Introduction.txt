@@ -1,3 +1,18 @@
 ##Computer organization
 
-Digital computer/simply Computer : are the High Speed electronic computing machine 
+Digital computer/simply Computer : are the High Speed electronic computing machine that takes digital input process it with list of instructions stored locally and produces the output information .
+the list of instructions are called : computer programs.
+where they stored locally is called : computer memmory.
+
+The computer are differ in their cost,size,computation power,and intend of use.
+1.Personal Computer : The most common computer are the personal computers they are used in schools , homes,businness.It is the form of Desktop computer.
+2.Desktop Computer : these are the computers that have processing and storage unit,a display and audio as output unit and a keyboard as input unit.
+                     the storage device contain harddisk,CD-ROMS,and the diskette(a agnetic disk enclosed in stiff envellop with radial slit)simply a floppy disk.
+3.Notebook computer : These are portable computer . they are the compact form of desktop computer where all the components are stored in a single unit with thw thin size of the briefcase.
+4.Workstations : these are within the dimensions of the Desktop Computers but with higher computation speed and memory they are basically used in enginnering for model training ,etc.
+5.The more powerful and sppedy than workstation are these following  computers (high resolution input/output) :
+    1.(at low end):
+        1.enterprise systems or(mainframes): these are build for dataprocessing in the medium to large corporation which require high computation speed.
+        2.Servers : these have stabalize batadase storage unit for handling high number of requests.these request are transported with the help of the internet.this internet are becomming dominat info sharing worlwide.
+                    internets have optical fibre for the speedy data info sharing.
+        3.Super Computers : Thse are build to provide higher numerical computations.
